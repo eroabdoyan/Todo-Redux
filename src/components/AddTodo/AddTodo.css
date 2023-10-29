@@ -1,0 +1,29 @@
+.add-block {
+    position: relative;
+    display: flex;
+    margin: 30px;
+    left: 35%;
+}
+
+.input-tab {
+    position: relative;
+    width: 300px;
+    height: 25px;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 1px solid #85C1E9;
+    box-shadow: 7px 4px 10px #85C1E9;
+    outline: none;
+}
+
+.btn-submit {
+    position: relative;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #85C1E9;
+}
+
+.btn-submit:active {
+    background-color: #5DADE2;
+}

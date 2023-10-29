@@ -1,0 +1,14 @@
+.categories {
+    position: relative;
+    padding: 10px;
+}
+
+.categories button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: aqua;
+}

@@ -1,0 +1,12 @@
+.checkbox {
+    position: relative;
+    margin: 5px;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.active-btn {
+    visibility: hidden;
+}

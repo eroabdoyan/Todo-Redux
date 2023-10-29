@@ -1,0 +1,10 @@
+.btn-remove {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.btn-remove:active {
+    background-color: #5DADE2;
+}
